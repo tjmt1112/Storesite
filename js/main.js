@@ -12,4 +12,8 @@
     menu.classList.toggle('open');
 
   });
+ mask.addEventListener('click',()=>{
+    mask.classList.toggle('open');
+ });
+
 }
